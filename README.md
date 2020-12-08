@@ -24,7 +24,7 @@
 ## Overview
 StayAway is a portable device that can keep users safer from the threat of COVID-19. The device detects social distancing infractions using a headless Raspberry Pi and PiCamera module and reports the processed live feed to a React Native app via Google Cloud Storage. You can then keep track of your proximity to large groups and crowded spaces and stay informed on COVID-19.
 
-This project was built for the University of Waterloo SE101 final project. Read more [here](https://git.uwaterloo.ca/se101-f20/five-guys/-/blob/master/SE101FINALREPORT_fiveguys.pdf).
+This project was built for the University of Waterloo SE101 final project. The original repository can be found [here](https://git.uwaterloo.ca/se101-f20/five-guys).
 
 ## App
 
